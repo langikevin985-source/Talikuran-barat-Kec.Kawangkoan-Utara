@@ -35,7 +35,7 @@
   <main>
     <section> id="informasi"
       <h2>Informasi Kelurahan</h2>
-      <p>Kelurahan Talikuran Barat adalah salah satu kelurahan di Kecamatan Kawangkoan Utara, Kabupaten Minahasa, Provinsi Sulawesi Utara. Kelurahan ini memiliki potensi alam yang kaya dan budaya yang beragam.</p>
+      <p>Kelurahan Talikuran Barat adalah salah satu kelurahan di Kecamatan Kawangkoan Utara, Kabupaten Minahasa, Provinsi Sulawesi Utara. Kelurahan ini memiliki potensi alam yang kaya dan budaya yang beragam.Kelurahan Talikuran Barat terdiri atas 4 lingkungan yang dipimpin oleh kepala lingkungan atau sering disebut “Pala” , dengan pembagian kepemimpinan sebagai berikut:•	Lingkungan I dipimpin oleh Stelly W. Turangan •	Lingkungan II dipimpin oleh Jhones Polla•	Lingkungan III dipimpin oleh Frangki B. Pinontoan•	Lingkungan IV dipimpin oleh Steven Rompas. Kepala lingkungan juga memiliki bawahan yang bertugas untuk membantu kepala lingkungan yang disebut “maweteng”.Berikut Adalah daftar maweteng di kelurahan Talikuran Barat.	Lingkungan 1 oleh Syalom Monintja dan Novia Pioh.	Lingkungan 2 oleh Royke Koluku dan Rivan Najoan.	Lingkungan 3 oleh Meity Engkol dan Istevanus O. Sekeon-.	Lingkungan 4 oleh Elvis  Assah dan Nontje V. Sorongan   .</p>
     
   <main>
     <section> id="kontak"
